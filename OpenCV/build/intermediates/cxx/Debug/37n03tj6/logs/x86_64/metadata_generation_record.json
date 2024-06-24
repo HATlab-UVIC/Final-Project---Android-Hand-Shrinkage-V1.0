@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86_64",
+    "file_": "C:\\Projects\\HatLabUvic\\opencv-4.9.0-android-sdk\\OpenCV-android-sdk\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -948604617
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Projects\\HatLabUvic\\opencv-4.9.0-android-sdk\\OpenCV-android-sdk\\sdk\\.cxx\\Debug\\37n03tj6\\x86_64\\android_gradle_build.json due to:",
+    "file_": "C:\\Projects\\HatLabUvic\\opencv-4.9.0-android-sdk\\OpenCV-android-sdk\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1703747646
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json C:\\Projects\\HatLabUvic\\opencv-4.9.0-android-sdk\\OpenCV-android-sdk\\sdk\\.cxx\\Debug\\37n03tj6\\x86_64\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "C:\\Projects\\HatLabUvic\\opencv-4.9.0-android-sdk\\OpenCV-android-sdk\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2006629706
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file C:\\Projects\\HatLabUvic\\opencv-4.9.0-android-sdk\\OpenCV-android-sdk\\sdk\\.cxx\\Debug\\37n03tj6\\x86_64\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "C:\\Projects\\HatLabUvic\\opencv-4.9.0-android-sdk\\OpenCV-android-sdk\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 445759508
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "C:\\Projects\\HatLabUvic\\opencv-4.9.0-android-sdk\\OpenCV-android-sdk\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2145852738
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Projects\\HatLabUvic\\opencv-4.9.0-android-sdk\\OpenCV-android-sdk\\sdk\\.cxx\\Debug\\37n03tj6\\x86_64\u0027",
+    "file_": "C:\\Projects\\HatLabUvic\\opencv-4.9.0-android-sdk\\OpenCV-android-sdk\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 221258814
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Projects\\HatLabUvic\\opencv-4.9.0-android-sdk\\OpenCV-android-sdk\\sdk\\.cxx\\Debug\\37n03tj6\\x86_64\u0027",
+    "file_": "C:\\Projects\\HatLabUvic\\opencv-4.9.0-android-sdk\\OpenCV-android-sdk\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1516136374
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"C:\\\\Users\\\\hatla\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Projects\\\\HatLabUvic\\\\opencv-4.9.0-android-sdk\\\\OpenCV-android-sdk\\\\sdk\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d21\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-21\" ^\n  \"-DANDROID_ABI\u003dx86_64\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\hatla\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\hatla\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\hatla\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\hatla\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Projects\\\\HatLabUvic\\\\opencv-4.9.0-android-sdk\\\\OpenCV-android-sdk\\\\sdk\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\37n03tj6\\\\obj\\\\x86_64\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Projects\\\\HatLabUvic\\\\opencv-4.9.0-android-sdk\\\\OpenCV-android-sdk\\\\sdk\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\37n03tj6\\\\obj\\\\x86_64\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Projects\\\\HatLabUvic\\\\opencv-4.9.0-android-sdk\\\\OpenCV-android-sdk\\\\sdk\\\\.cxx\\\\Debug\\\\37n03tj6\\\\x86_64\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "C:\\Projects\\HatLabUvic\\opencv-4.9.0-android-sdk\\OpenCV-android-sdk\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 985488778
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Users\\\\hatla\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Projects\\\\HatLabUvic\\\\opencv-4.9.0-android-sdk\\\\OpenCV-android-sdk\\\\sdk\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d21\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-21\" ^\n  \"-DANDROID_ABI\u003dx86_64\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\hatla\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\hatla\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\hatla\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\hatla\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Projects\\\\HatLabUvic\\\\opencv-4.9.0-android-sdk\\\\OpenCV-android-sdk\\\\sdk\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\37n03tj6\\\\obj\\\\x86_64\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Projects\\\\HatLabUvic\\\\opencv-4.9.0-android-sdk\\\\OpenCV-android-sdk\\\\sdk\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\37n03tj6\\\\obj\\\\x86_64\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Projects\\\\HatLabUvic\\\\opencv-4.9.0-android-sdk\\\\OpenCV-android-sdk\\\\sdk\\\\.cxx\\\\Debug\\\\37n03tj6\\\\x86_64\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "C:\\Projects\\HatLabUvic\\opencv-4.9.0-android-sdk\\OpenCV-android-sdk\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 597245739
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of C:\\Projects\\HatLabUvic\\opencv-4.9.0-android-sdk\\OpenCV-android-sdk\\sdk\\.cxx\\Debug\\37n03tj6\\x86_64\\compile_commands.json.bin normally",
+    "file_": "C:\\Projects\\HatLabUvic\\opencv-4.9.0-android-sdk\\OpenCV-android-sdk\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1303360672
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\Projects\\HatLabUvic\\opencv-4.9.0-android-sdk\\OpenCV-android-sdk\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1833506487
+  },
+  {
+    "level_": 0,
+    "message_": "write command file C:\\Projects\\HatLabUvic\\opencv-4.9.0-android-sdk\\OpenCV-android-sdk\\sdk\\.cxx\\Debug\\37n03tj6\\x86_64\\metadata_generation_command.txt",
+    "file_": "C:\\Projects\\HatLabUvic\\opencv-4.9.0-android-sdk\\OpenCV-android-sdk\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 918218034
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Projects\\HatLabUvic\\opencv-4.9.0-android-sdk\\OpenCV-android-sdk\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -523387725
+  }
+]
